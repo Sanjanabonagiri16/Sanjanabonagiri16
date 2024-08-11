@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm BONAGIRI SANJANA</h1>
-<h3 align="center">A passionate Frontend developer,Python Developer & Business Analyst from India</h3>
+<h1 align="center">
+  <span class="animated-text">Hi 👋, I'm BONAGIRI SANJANA</span>
+</h1>
+
+<h3 align="center" class="animated-subtitle">A passionate Frontend Developer, Python Developer & Business Analyst from India</h3>
 
 - 🌱 I’m currently learning **ReactJS,PowerBI,Javascript,Generative AI**
 

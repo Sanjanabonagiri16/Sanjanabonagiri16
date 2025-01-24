@@ -1,7 +1,4 @@
 # 👨‍💻 About Me:
-![My Image](https://github.com/Sanjanabonagiri16/Sanjanabonagiri16/blob/b93e9d8daaca4aee3f85b44b8edefe812c83f46f/undraw_programmer_raqr.svg =150x)
-
-
 I am a Full Stack Developer and AI Enthusiast from India.
 
 🚀 Specializing in AI, ML, and Full Stack Development with a focus on Next.js and React.  

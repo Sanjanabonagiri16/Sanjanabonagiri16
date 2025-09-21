@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bonagiri Sanjana</h1>  
 
 <p align="center">
-  <!-- Girl coding illustration -->
-  <img src="https://cdn-icons-png.flaticon.com/512/9191/9191030.png" width="220" alt="Girl Coding"/>
+  <!-- Girl face developer illustration -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5231/5231019.png" width="180" alt="Girl Developer Face"/>
 </p>  
 
 ---
@@ -28,9 +28,9 @@
 ## 📊 Fun Stats  
 
 - 🔭 **20+ projects** in the last 2 months  
-- 🌱 Currently exploring: **LLMs, RAG, and Agent-based AI systems** 🤖  
+- 🌱 Currently exploring: **LLMs, RAG, and AI Agent Systems** 🤖  
 - 💬 Ask me about: **Python, Full Stack, AI/ML**  
-- ⚡ Fun fact: I love blending **creativity 🎨 + code 💻** to build unique tools  
+- ⚡ Fun fact: I mix **creativity 🎨 + AI 🤖 + code 💻** into real-world projects  
 
 ---
 

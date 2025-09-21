@@ -1,46 +1,42 @@
-# 👩‍💻 About Me  
+<h1 align="center">Hi 👋, I'm Bonagiri Sanjana</h1>  
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2922/2922561.png" width="150" alt="Girl Developer Infographic"/>
-</p>
-
-Hi! I’m **Bonagiri Sanjana** ✨ — a **Full Stack Developer** & **AI Enthusiast** from India 🇮🇳  
-
-🚀 **Specializing in:** AI, ML, and Full-Stack Development (Next.js & React)  
-🧠 Passionate about **Generative AI** & **Natural Language Processing**  
-☁️ Experienced in **Cloud (Azure)** and automation workflows  
-🛠️ Skilled in **Python, Java, JavaScript, Tailwind CSS, Node.js, .NET**  
-💾 Hands-on with databases: **SQL, MongoDB, Firebase**  
-💡 Adept at **Prompt Engineering** & building SaaS tools  
-🏆 Patent Holder: *AI Jarvis with Smart Blind Stick*  
-📚 Constantly learning, experimenting, and sharing knowledge  
-
----
-
-# 🛠️ Languages and Tools  
-
-<p align="left">  
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>  
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="180" alt="Girl Coder"/>
 </p>  
 
 ---
 
-# 📫 How to reach me  
+## 👩‍💻 About Me  
+✨ Full Stack Developer & AI Enthusiast from **Hyderabad, India**  
+🚀 Passionate about **Generative AI, NLP, and SaaS Tools**  
+🎓 B.Tech CSE (AI & ML) @ Malla Reddy Engineering College – **86%**  
+🏆 Patent Holder – *AI Jarvis with Smart Blind Stick*  
+💼 Internships @ InnoByte Services & BrainWave Matrix Solutions  
+🌐 Built **60+ GitHub Repos** & **10+ SaaS products**  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sanjana%20Bonagiri-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-bonagiri/)  
-[![GitHub Badge](https://img.shields.io/badge/-Sanjana%20Bonagiri-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sanjanabonagiri16)  
-🌐 [My Portfolio](https://sanjanabonagiri.online)  
+---
 
+## 🛠️ Tech Stack (Infographic Style)  
 
+| **Frontend** | **Backend** | **Databases** | **Cloud & Tools** |
+|--------------|-------------|---------------|-------------------|
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 
+---
+
+## 📊 Fun Stats  
+
+- 🔭 **20+ projects** in the last 2 months  
+- 🌱 Learning: **Deep Learning & Prompt Engineering**  
+- 💬 Ask me about: **Python, Full Stack, AI/ML**  
+- ⚡ Fun fact: I turn coffee ☕ into code & creativity 🎨  
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanjana-bonagiri"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Sanjanabonagiri16"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://sanjanabonagiri.online"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white" /></a>
+</p>  

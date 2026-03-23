@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sanjana%20Bonagiri&fontSize=40&fontColor=ffffff)🚀 Sanjana Bonagiri  
-### ⚡ AI-Native Developer | Python • Full Stack • LLM Engineer  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sanjana%20Bonagiri&fontSize=40&fontColor=ffffff)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI-Native+Developer;LLM+Systems+Builder;Full-Stack+Engineer;Building+Real-World+AI+Products" />

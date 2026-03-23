@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sanjana%20Bonagiri&fontSize=40&fontColor=ffffff)# 🚀 Sanjana Bonagiri  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sanjana%20Bonagiri&fontSize=40&fontColor=ffffff)🚀 Sanjana Bonagiri  
 ### ⚡ AI-Native Developer | Python • Full Stack • LLM Engineer  
 
 <p align="center">
@@ -120,7 +120,7 @@ ingest → chunk → embed → retrieve → rerank → generate → evaluate →
 
 ---
 
-## 🎯 2026 Focus  
+## 🎯 Focus  
 
 - 🧠 LLM reliability + fine-tuning  
 - ⚙️ Production-grade RAG systems  
